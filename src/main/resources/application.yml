@@ -1,0 +1,13 @@
+# 配置端口
+server:
+  port: 8080
+person:
+  name: 小明
+  age: 10
+  email: 2628231526@qq.com
+#  friends: {name: 小红,age: 8}    #注意空格问题
+  map: {k1: v1,k2: v2}            #注意空格问题
+  list: ['1','2','3']
+
+
+
